@@ -1,0 +1,21 @@
+{
+  "maxID": 3,
+  "comments": [
+   {
+     "id": "1",
+     "author": "Alexander Chester",
+     "text": "...Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae cum dolor exercitationem in incidunt ipsa itaque laborum magni modi necessitatibus quaerat qui quibusdam reiciendis repellendus rerum sapiente, similique, voluptatibus...",
+     "approved": true
+   },
+   { "id": "2",
+     "author": "Joanna Kingsman",
+     "text": "...Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae cum dolor exercitationem in incidunt ipsa itaque laborum magni modi necessitatibus quaerat qui quibusdam reiciendis repellendus rerum sapiente, similique, voluptatibus...",
+     "approved": true
+   },
+   { "id": "3",
+     "author": "Nicole WilKinson",
+     "text": "...Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
+     "approved": false
+   }
+  ]
+}
