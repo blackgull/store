@@ -1,0 +1,48 @@
+{
+  "contents": [
+    {
+      "id_product": 1001,
+      "product_name": "Mango People T-shirt",
+      "price": 50.00,
+      "quantity": 1,
+      "src_Img": "img/products/prod-1001.jpg",
+      "alt_Img": "product photo",
+      "product_color": "Red",
+      "product_size": "XII",
+      "stars": 5
+    },
+    {
+      "id_product": 1002,
+      "product_name": "Mango People T-shirt",
+      "price": 75.00,
+      "quantity": 1,
+      "src_Img": "img/products/prod-1002.jpg",
+      "alt_Img": "product photo",
+      "product_color": "Black",
+      "product_size": "XXI",
+      "stars": 5
+    },
+    {
+      "id_product": 1003,
+      "product_name": "Mango People T-shirt",
+      "price": 110.00,
+      "quantity": 1,
+      "src_Img": "img/products/prod-1003.jpg",
+      "alt_Img": "product photo",
+      "product_color": "White",
+      "product_size": "XI",
+      "stars": 5
+    },
+    {
+      "id_product": 1004,
+      "product_name": "Mango People T-shirt",
+      "price": 65.00,
+      "quantity": 1,
+      "src_Img": "img/products/prod-1004.jpg",
+      "alt_Img": "product photo",
+      "product_color": "Red",
+      "product_size": "XII",
+      "stars": 5
+    }
+  ]
+}
